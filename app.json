@@ -17,12 +17,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number with country code (e.g. 263xxx for Zimbabwe)",
-      "value": "",
+      "value": "256744111341",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Bot owner's name",
-      "value": "Iconic Developer",
+      "value": "Ian Joel",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
@@ -42,7 +42,7 @@
     },
     "TIMEZONE": {
       "description": "Your timezone (Africa/Harare or Africa/Gweru recommended)",
-      "value": "Africa/Harare",
+      "value": "Africa/Kampala",
       "required": false
     },
     "GITHUB_TOKEN": {
