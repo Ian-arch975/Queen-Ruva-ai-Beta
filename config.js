@@ -3,16 +3,16 @@ const chalk = require('chalk');
 
 /* ==== SETTINGS ==== */
 global.prefa = [',', '!', '.', '#', '&'];
-global.autoRecording = true; // auto recording
-global.autoTyping = true; // auto typing
-global.autorecordtype = true; // auto typing + recording
-global.autoread = true; // auto read messages
+global.autoRecording = false; // auto recording
+global.autoTyping = false; // auto typing
+global.autorecordtype = false; // auto typing + recording
+global.autoread = false; // auto read messages
 global.autobio = false; // auto update bio
-global.chatbot = true; // Enable text chatbot
+global.chatbot = false; // Enable text chatbot
 global.emojiReact = false; // Default: enabled
-global.ownernomer = "263786115435";
-global.ownername = "𝚚𝚞𝚎𝚎𝚗-𝚛𝚞𝚟𝚊 𝙰𝙸";
-global.ownernumber = '263786115435';
+global.ownernomer = "256744111341";
+global.ownername = "Ian Joel";
+global.ownernumber = '256744111341';
 // Add country codes to block (e.g., +1, +91, +44)
 global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 
